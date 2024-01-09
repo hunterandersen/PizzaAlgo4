@@ -1,0 +1,6 @@
+Call the pizza place
+Ask for the pizza you want
+Give them your address for delivery
+Wait for pizza
+Pay for pizza upon delivery
+Enjoy pizza
